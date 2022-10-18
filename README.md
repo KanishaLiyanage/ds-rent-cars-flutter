@@ -1,4 +1,10 @@
-# ds_rent_cars
+<a name="readme-top"></a>
+
+<br />
+<div align="center">
+  <h1 align="center">DS Rent Cars Flutter Application</h1>
+  <br />
+</div>
 
 Vehicle rental application by Flutter.
 
