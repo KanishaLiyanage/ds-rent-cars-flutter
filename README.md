@@ -48,9 +48,11 @@ samples, guidance on mobile development, and a full API reference.
 [![Product Name Screen Shot][product-screenshot-3]]
 [![Product Name Screen Shot][product-screenshot-4]]
 
-This travelling app is based on context awareness feature.
+This App is made for my university project of the course module Rapid Application Development.
 
-This app can sense user's currrent location coordinates using device GPS and then recommend to user near travelling locations. This app giving weather data, weather alerts, & latest Covid-19 information according to user's current location. Also this app notify the user to travel is saftey or not according to weather condition and Covid-19 status.
+This app is made using Agile software-development methodology. Agile development is an iterative software-development methodology which teams use in projects. Self-organized, cross-functional teams frequently analyze circumstances and user needs to adapt projects. Scrum teams constantly improve quality in sprints with short-term deliverables.
+
+This app has all the CRUD operations.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
