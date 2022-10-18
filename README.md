@@ -48,7 +48,7 @@ samples, guidance on mobile development, and a full API reference.
 [![Product Name Screen Shot][product-screenshot-3]]
 [![Product Name Screen Shot][product-screenshot-4]]
 
-This App is made for my university project of the course module Rapid Application Development.
+This App is made for my university project for the course module named "Rapid Application Development".
 
 This app is made using Agile software-development methodology. Agile development is an iterative software-development methodology which teams use in projects. Self-organized, cross-functional teams frequently analyze circumstances and user needs to adapt projects. Scrum teams constantly improve quality in sprints with short-term deliverables.
 
