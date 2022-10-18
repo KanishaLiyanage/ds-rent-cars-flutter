@@ -94,7 +94,7 @@ _Below instructions are how to setup and run this app. Read this instructions ve
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/KanishaLiyanage/gamedudes-blog-web-expressjs.git
+   git clone https://github.com/KanishaLiyanage/ds-rent-cars-flutter-app.git
    ```
 2. clear Flutter's Build cache
    ```sh
@@ -128,7 +128,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * LinkedIn - [@kanisha-liyanage](https://www.linkedin.com/in/kanisha-liyanage)
 * Twitter - [@DilumKanisha](https://mobile.twitter.com/DilumKanisha)
 
-Project Link: [https://github.com/KanishaLiyanage/travel-sense-flutter-app.git](https://github.com/KanishaLiyanage/travel-sense-flutter-app.git)
+Project Link: [https://github.com/KanishaLiyanage/ds-rent-cars-flutter-app.git](https://github.com/KanishaLiyanage/ds-rent-cars-flutter-app.git)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
