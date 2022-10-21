@@ -144,7 +144,7 @@ Project Link: [https://github.com/KanishaLiyanage/ds-rent-cars-flutter-app.git](
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[product-screenshot-1]: images/screenshot1.jpg
-[product-screenshot-2]: images/screenshot2.jpg
-[product-screenshot-3]: images/screenshot3.jpg
-[product-screenshot-4]: images/screenshot4.jpg
+[product-screenshot-1]: images/screenshot1.png
+[product-screenshot-2]: images/screenshot2.png
+[product-screenshot-3]: images/screenshot3.png
+[product-screenshot-4]: images/screenshot4.png
