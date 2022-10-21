@@ -49,10 +49,10 @@ samples, guidance on mobile development, and a full API reference.
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-[![Product Name Screen Shot][product-screenshot-1]
-[![Product Name Screen Shot][product-screenshot-2]
-[![Product Name Screen Shot][product-screenshot-3]
-[![Product Name Screen Shot][product-screenshot-4]
+![Product Name Screen Shot][product-screenshot-1]
+![Product Name Screen Shot][product-screenshot-2]
+![Product Name Screen Shot][product-screenshot-3]
+![Product Name Screen Shot][product-screenshot-4]
 
 This App is made for my university project for the course module named "Rapid Application Development".
 
